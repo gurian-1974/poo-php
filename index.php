@@ -30,6 +30,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/EmptyPHPWebPage.php to 
        $c1 ->rabiscar();
        
         $c1 ->tampar();
+        print_r("teste")
    
         
         
